@@ -38,12 +38,12 @@ The script preserves **headings, lists (ordered & unordered), bold, italic, unde
 
 Run the script with:
 ```bash
-python converter.py input.docx output.tex
+python main.py input.docx output.tex
 ```
 
 Example:
 ```bash
-python converter.py sample.docx output.tex
+python main.py sample.docx output.tex
 ```
 
 ---
